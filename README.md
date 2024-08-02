@@ -7,7 +7,7 @@ I have applied my advanced Excel skills to create a detailed data analytics proj
 
 **_Tools Used:_**
 
-Excel, Vlookup, Pivot Tables,Pivot Charts, Dashboard.
+Excel,Vlookup, Pivot Tables,Pivot Charts, Dashboard.
 
 **Analysis Task**
 How many total quantities sold and total sales generated?
